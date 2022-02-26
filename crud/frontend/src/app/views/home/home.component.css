@@ -1,0 +1,11 @@
+.home title{
+    /* Rem é uma unidade de medida que se refere ao componente raiz da página */
+    /* Por ser uma unidade relativa ela se torna sensível as mudanças definidas pelo usuário */
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.home .subtitle{
+    font-size: 1.1rem;
+}
